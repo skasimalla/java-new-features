@@ -13,7 +13,7 @@ public class EngineTest {
 		ScriptEngine engine = manager.getEngineByName("JavaScript");
 		System.out.println(engine.getClass().getName());
 		try {
-			System.out.println("Result: " + engine.eval("funsction f() { return 1; }; f() + 1;"));
+			System.out.println("Result: " + engine.eval("function f() { return 1; }; f() + 1;"));
 		} catch (ScriptException e) {
 			e.printStackTrace();
 		}
