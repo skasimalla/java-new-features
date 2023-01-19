@@ -2,6 +2,9 @@
 
 A project to explore more about the new features of Java 8, 9, ...
 
+Here's the PPT used for the meetup
+https://docs.google.com/presentation/d/1qEUb9LTQgF_-Eenaz-nps2XTHhfPRWxJa7gCBVbfz3Y
+
 [JDK Release Notes](https://www.oracle.com/java/technologies/javase/jdk-relnotes-index.html)
 
 ## OpenJDK Projects
